@@ -1,0 +1,3 @@
+| Plugins | State | API | Downloads Total | Downloads | Lint |
+| :-----: | :---: | :-: | :-------------: | :-------: | :--: |
+| [ItemFactory](https://github.com/kaidoMC/ItemFactory) | [![](https://poggit.pmmp.io/shield.state/ItemFactory)](https://poggit.pmmp.io/p/ItemFactory) | [![](https://poggit.pmmp.io/shield.api/ItemFactory)](https://poggit.pmmp.io/p/ItemFactory) | [![](https://poggit.pmmp.io/shield.dl.total/ItemFactory)](https://poggit.pmmp.io/p/ItemFactory) | [![](https://poggit.pmmp.io/shield.dl/ItemFactory)](https://poggit.pmmp.io/p/ItemFactory) | [![](https://poggit.pmmp.io/ci.shield/kaidoMC/ItemFactory/ItemFactory)](https://poggit.pmmp.io/ci/kaidoMC/ItemFactory/ItemFactory)|
